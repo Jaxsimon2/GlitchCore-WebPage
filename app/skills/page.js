@@ -9,10 +9,18 @@ export default function Skills() {
         <h1 className="text-3xl font-bold mb-4">Skills</h1>
         <ul className="list-disc pl-6">
           <li>JavaScript</li>
+          <li>TypeScript</li>
           <li>React & Next.js</li>
           <li>Node.js</li>
           <li>Tailwind CSS</li>
           <li>Database Management (SQL)</li>
+          <li>Java</li>
+          <li>Python</li>
+          <li>C#</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Communication</li>
+          <li>LeaderShip</li>
         </ul>
       </main>
       <Footer /> 

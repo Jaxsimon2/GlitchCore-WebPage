@@ -11,6 +11,7 @@ export default function Projects() {
           <li>Web Application for Event Management</li>
           <li>E-commerce Website</li>
           <li>Mobile Weather App</li>
+          <li>Mobile To-Do-List App</li>
         </ul>
       </main>
       <Footer /> 
