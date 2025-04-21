@@ -16,17 +16,12 @@ export default function NavBar() {
       <Link 
         href="/about" 
         className="px-3 py-2 rounded-md text-gray-900 dark:text-white hover:underline hover:bg-gray-200 dark:hover:bg-gray-600">
-        About
-      </Link>
-      <Link 
-        href="/skills" 
-        className="px-3 py-2 rounded-md text-gray-900 dark:text-white hover:underline hover:bg-gray-200 dark:hover:bg-gray-600">
-        Skills
+        About Us
       </Link>
       <Link 
         href="/projects" 
         className="px-3 py-2 rounded-md text-gray-900 dark:text-white hover:underline hover:bg-gray-200 dark:hover:bg-gray-600">
-        Projects
+        Project Info
       </Link>
       <Link 
         href="/contact" 
