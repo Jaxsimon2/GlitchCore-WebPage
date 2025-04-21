@@ -11,7 +11,7 @@ export default function Projects() {
         <p className="leading-7">
         MaplePay is an Employee Management System designed to streamline and simplify workforce management
         by integrating attendance tracking and payroll processing into a single, convenient platform. 
-        The system offers key features such as employee clock-in/out management, schedule management, 
+        The system offers key features such as employee clock-in/out management, attendance management,
         and automated payroll calculation, providing a comprehensive solution
          to enhance operational efficiency and reduce administrative workload.
         </p>
